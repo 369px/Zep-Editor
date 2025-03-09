@@ -12,9 +12,10 @@
 
 ## How to use this theme with the right fonts
 1. Find, download and install the Picotron and P8 fonts online
-2. Open Zed menu
-3. Click on "Settings" -> "Open Settings"
-4. Add and set "ui_font_family" and "buffer_font_family" to your installed Picotron font file name, like this:
-<br><img width="299" alt="Schermata 2025-03-09 alle 01 21 38" src="https://github.com/user-attachments/assets/45748cff-c2bd-4279-b792-53e803ea21e4" />
-5. Edit the terminal font by adding a section like this and connecting the P8 or Picotron font to it, like you did previously
-<br><img width="238" alt="Schermata 2025-03-09 alle 01 24 50" src="https://github.com/user-attachments/assets/218ada70-5290-4ceb-9b8c-50f7508ec657" />
+<br><br>
+2. Open Zed menu, then click on ` Settings `  ->  ` Open Settings `
+<br><br>
+4. Add and set ` ui_font_family ` and ` buffer_font_family ` to your installed Picotron font file name, like this:
+<br><br><img width="299" alt="Schermata 2025-03-09 alle 01 21 38" src="https://github.com/user-attachments/assets/45748cff-c2bd-4279-b792-53e803ea21e4" /><br><br>
+5. Edit the terminal font by adding the section shown in the next image and connect the P8 or Picotron font to it, like you did previously:
+<br><br><img width="238" alt="Schermata 2025-03-09 alle 01 24 50" src="https://github.com/user-attachments/assets/218ada70-5290-4ceb-9b8c-50f7508ec657" />
